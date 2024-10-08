@@ -1,4 +1,5 @@
 mod windowing;
+mod settings;
 
 use winit::event_loop::ControlFlow;
 
